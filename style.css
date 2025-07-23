@@ -1,0 +1,54 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nosifer&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+     font-family: "Nosifer", sans-serif;
+     list-style: none;
+}
+
+.container{
+    margin: 0 auto;
+    padding: 0 120;
+}
+.header{
+    width: 1440px;
+    height: 1024px;
+    border: 2px solid red;
+    background-image: url(image\ 2\ \(1\).png);
+    padding-bottom: 500px;
+    
+}
+
+.nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.nav ul{
+    
+    display: flex;
+    align-items: center;
+    gap: 78px;
+   
+}
+
+.text {
+    width: 692px;
+    height: 122px;
+    margin: 0 auto;
+    margin-top: 576px;
+    border: 11px solid black;
+    font-size: 48px;
+    font-weight: 400;
+    letter-spacing: 0%;
+    text-align: center;
+    align-content: center;
+    background: linear-gradient(90deg, rgba(245, 194, 44, 0.96) 0%, #64AA58 28%, #FAFF00 58.5%, #D92E23 100%);
+    
+ 
+}
